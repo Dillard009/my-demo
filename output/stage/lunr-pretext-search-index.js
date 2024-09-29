@@ -52,7 +52,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Introduction to First Chapter",
-  "body": " Introduction to First Chapter   Intro to section, because we will have subsections.  Another paragraph of the introduction.    A subsection  Content of the subsection.  More content.    Another Subsection  Text with some math: only for some values of .    After the last subsection, you might have a conclusion.   "
+  "body": " Introduction to First Chapter   Intro to section, because we will have subsections.  Another paragraph of the introduction.    A subsection  Content of the subsection.  More content.    Another Subsection  Text with some math: only for some values of .    After the last subsection, you might have a conclusion. Yes? Okay  Okay HAHAHAHAHAHAHAHAHAHAHAHAH     "
+},
+{
+  "id": "sec_first-intro-5-1-1",
+  "level": "2",
+  "url": "sec_first-intro.html#sec_first-intro-5-1-1",
+  "type": "Technology",
+  "number": "1.1.1",
+  "title": "",
+  "body": " Okay HAHAHAHAHAHAHAHAHAHAHAHAH  "
 },
 {
   "id": "sec_first-examples",
@@ -61,7 +70,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Examples",
-  "body": " Examples  Here is an example:    The statement of the example, since it will have a solution. What is the solution?    This is the solution.    Here is another example, but without a solution   This is an example of an example without a solution (or hint or answer) so the paragraph doesn't need to be inside a statement tag.   Although the next things are not examples, they give examples of blocks that are not examples. First a theorem.   Theorem Title   This is the statement of the theorem.    And this is its proof.      A corollary that doesn't need a proof.    Perhaps at the end of the section, you want to add a note to the reader about how what you have fits into the larger scope of mathematics.   Larger Context  Comment to the reader here.   Of course, if you want more information, you might see .  "
+  "body": " Examples  Here is an example: You sure about that?    The statement of the example, since it will have a solution. What is the solution?    This is the solution.    Here is another example, but without a solution SADHUSADHUSADHUSADHUSADUHSADHU   This is an example of an example without a solution (or hint or answer) so the paragraph doesn't need to be inside a statement tag.   Although the next things are not examples, they give examples of blocks that are not examples. First a theorem.   Theorem Title   This is the statement of the theorem.    And this is its proof.      A corollary that doesn't need a proof.    Perhaps at the end of the section, you want to add a note to the reader about how what you have fits into the larger scope of mathematics.   Larger Context  Comment to the reader here.   Of course, if you want more information, you might see .  "
 },
 {
   "id": "sec_first-examples-3",
